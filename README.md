@@ -1,2 +1,2 @@
 # Bissection_Method
-Equipo 3 de Análisis numérico
+Equipo 4 de Análisis numérico: método de bisección
